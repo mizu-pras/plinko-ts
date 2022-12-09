@@ -22,8 +22,8 @@ This is a template repo. Click the green [Use this template](https://github.com/
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-git clone https://github.com/kbysiec/vite-vanilla-ts-lib-starter.git
-cd vite-vanilla-ts-lib-starter
+git clone https://github.com/mizu-pras/plinko-ts.git
+cd plinko-ts
 npm i
 ```
 
